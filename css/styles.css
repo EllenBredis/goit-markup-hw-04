@@ -425,7 +425,6 @@ ul {
 /* Стили для footer */
 .footer {
   background-color: var(--accent-background-color);
-  max-width: 1600px;
   padding-top: 60px;
   padding-bottom: 60px;
   margin: auto;
