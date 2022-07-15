@@ -375,7 +375,8 @@ ul {
   align-items: center;
 }
 
-.team-link:hover {
+.team-link:hover,
+.team-link:focus {
   fill: var(--main-color);
   background-color: var(--accent-color);
   border-radius: 50%;
@@ -412,7 +413,8 @@ ul {
   border: 1px solid #afb1b8;
 }
 
-.clients-icon:hover {
+.clients-icon:hover,
+.clients-icon:focus {
   fill: var(--accent-color);
 }
 
@@ -514,7 +516,8 @@ ul {
   align-items: center;
 }
 
-.footer-link:hover {
+.footer-link:hover,
+.footer-link:focus {
   background-color: var(--accent-color);
 }
 
